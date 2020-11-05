@@ -1,4 +1,4 @@
-# EAAI 2020 Gin Rummy Undergraduate Research Challenge Submission
+# EAAI 2021 Gin Rummy Undergraduate Research Challenge Submission
 
 In order to test agent, build the project to a jar file along with the following Maven libraries:
 
